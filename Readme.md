@@ -1,0 +1,1 @@
+git clone <url (ssh)> #this is how you creata cloned repo from github 
