@@ -52,4 +52,4 @@ git pull
 ```
 
 remote changes
-Local changes
+Local and more change
